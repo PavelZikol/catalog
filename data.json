@@ -1,0 +1,1 @@
+[{"model": "catalog.category", "pk": 1, "fields": {"category_name": "ихи", "category_description": "классная"}}, {"model": "catalog.product", "pk": 1, "fields": {"product_name": "я извиняюсь", "product_description": "UTF-8 не поддерживается моей базой данных", "preview": "", "category": 1, "price": 4, "create_date": "2024-04-14", "final_change_date": "2024-04-14"}}]
